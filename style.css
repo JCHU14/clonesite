@@ -1,0 +1,46 @@
+.blacklogo {
+    max-height: 15vh;
+}
+
+.backdrop {
+    height: 80vh;
+    padding-left: 0;
+    padding-right: 0;
+    background-image: url("https://i.pinimg.com/originals/bf/92/6e/bf926ed8efe18b10b179eb809b3ffd08.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: flex-end;
+    margin-bottom: 10px;
+}
+
+.light-text {
+    color: white;
+    font-style: oblique;
+
+}
+
+.success {
+    background-color: gray;
+}
+
+.button1 {
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    font-size: large;
+}
+
+.dots {
+    display: inline;
+
+}
+
+.pic {
+    max-width: 55vh;
+    margin-top: 100px;
+    margin-right: 40px;
+}
+
+.inline {
+    display: inline;
+    max-width: 30vw;
+}
